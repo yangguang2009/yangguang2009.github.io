@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Yang's Website",
+  title: "Yang'Website",
   tagline: "Welcome to Yang'Website!",
   favicon: "img/favicon.ico",
 
