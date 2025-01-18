@@ -1,0 +1,58 @@
+.custom-block {
+  border-radius: 8px;
+  padding: 16px 16px 0px;
+  margin-bottom: 16px;
+
+  .custom-block-title {
+    font-weight: bold;
+  }
+}
+
+.tip {
+  border: 2px solid #4caf50;
+  background-color: #e8f5e9;
+
+  .custom-block-title {
+    color: #388e3c;
+  }
+
+  p {
+    color: #2e7d32;
+  }
+}
+
+.info {
+  border: 2px solid #2196f3;
+  background-color: #e3f2fd;
+  .custom-block-title {
+    color: #1976d2;
+  }
+
+  p {
+    color: #1565c0;
+  }
+}
+
+.warning {
+  border: 2px solid #ffc107;
+  background-color: #fff8e1;
+  .custom-block-title {
+    color: #ffa000;
+  }
+
+  p {
+    color: #ff8f00;
+  }
+}
+
+.danger {
+  border: 2px solid #f44336;
+  background-color: #ffebee;
+  .custom-block-title {
+    color: #d32f2f;
+  }
+
+  p {
+    color: #c62828;
+  }
+}
