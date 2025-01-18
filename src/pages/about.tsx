@@ -55,14 +55,14 @@ export default function About() {
               >
                 <FaEnvelope className="w-8 h-8" />
               </a>
-              <a
+              {/* <a
                 href="https://twitter.com/yourusername"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
               >
                 <FaTwitter className="w-8 h-8" />
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
