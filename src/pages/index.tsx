@@ -9,7 +9,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Welcome from ${siteConfig.title}`}
-      description="WebLab for fun :)"
+      description="Coding for fun :)"
     >
       <div className="tailwind">
         <HeroSection />

@@ -3,9 +3,9 @@ slug: The-Evolution-of-Frontend-Development
 title: A Journey Through Time The Evolution of Frontend Development
 authors:
   name: Yangguang
-  title: WebLab.Fun
+
   url: https://yangguang2009.github.io
-  image_url: https://gd-hbimg.huaban.com/2061a065ea4a99c5c9a0835645ac686987fbcc6e3a9167-pOwbR4_fw658
+  image_url: /img/logo.png
 tags: [LLM, Fronend]
 ---
 

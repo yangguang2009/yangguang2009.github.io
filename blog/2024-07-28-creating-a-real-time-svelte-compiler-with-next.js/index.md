@@ -3,9 +3,9 @@ slug: creating-a-real-time-svelte-compiler-with-next.js
 title: Creating a Real-Time Svelte Compiler with Next.js A Fun and Easy Guide
 authors:
   name: Yangguang
-  title: WebLab.Fun
+
   url: https://yangguang2009.github.io
-  image_url: https://gd-hbimg.huaban.com/2061a065ea4a99c5c9a0835645ac686987fbcc6e3a9167-pOwbR4_fw658
+  image_url: /img/logo.png
 tags: [Svelte, Next.js]
 ---
 

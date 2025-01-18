@@ -4,9 +4,9 @@ title: How AI Large Models are Revolutionizing Low-Code/No-Code Platforms
 description: An engaging exploration of how AI large models are transforming the landscape of low-code/no-code development, making it more accessible and efficient.
 authors:
   name: Yangguang
-  title: WebLab.Fun
+
   url: https://yangguang2009.github.io
-  image_url: https://gd-hbimg.huaban.com/2061a065ea4a99c5c9a0835645ac686987fbcc6e3a9167-pOwbR4_fw658
+  image_url: /img/logo.png
 tags: [LLM, Low-Code]
 ---
 
