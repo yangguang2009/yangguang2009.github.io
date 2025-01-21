@@ -23,15 +23,12 @@ Como este Aplicativo atualmente usa apenas o serviço de publicidade do AdMob, a
 Usamos suas informações principalmente para os seguintes propósitos:
 
 - **Fornecer e melhorar os serviços de publicidade:** O AdMob usa as informações coletadas para exibir anúncios mais relevantes e medir a eficácia das campanhas publicitárias.
-- **Análise e relatórios:** Podemos usar informações agregadas e anônimas para analisar o uso do aplicativo e o desempenho dos anúncios para melhorar nosso aplicativo e serviços.
-- **Conformidade com leis e regulamentos:** Podemos divulgar suas informações se exigido por lei.
 
 **Como compartilhamos suas informações**
 
 Podemos compartilhar suas informações com os seguintes terceiros:
 
 - **AdMob e outros parceiros de publicidade:** Para fornecer serviços de publicidade, compartilhamos as informações necessárias com o AdMob e outros parceiros de publicidade em potencial. Esses parceiros podem usar suas informações para fornecer publicidade personalizada e outros serviços. Recomendamos que você revise as políticas de privacidade do AdMob e de outros parceiros para entender como eles usam suas informações.
-- **Autoridades legais:** Podemos divulgar suas informações para autoridades policiais ou outras agências governamentais, se exigido por lei.
 
 **Alterações nesta Política de Privacidade**
 

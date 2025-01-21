@@ -22,15 +22,12 @@ As this App currently only uses the AdMob advertising service, the information w
 We use your information primarily for the following purposes:
 
 - **Providing and Improving Advertising Services:** AdMob uses the collected information to display more relevant ads and measure the effectiveness of advertising campaigns.
-- **Analysis and Reporting:** We may use aggregated, anonymized information to analyze app usage and ad performance to improve our app and services.
-- **Compliance with Laws and Regulations:** We may disclose your information if required by law.
 
 **How We Share Your Information**
 
 We may share your information with the following third parties:
 
 - **AdMob and Other Advertising Partners:** To provide advertising services, we share necessary information with AdMob and other potential advertising partners. These partners may use your information to provide personalized advertising and other services. We recommend that you review the privacy policies of AdMob and other partners to understand how they use your information.
-- **Legal Authorities:** We may disclose your information to law enforcement or other government agencies if required by law.
 
 **Changes to This Privacy Policy**
 

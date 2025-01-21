@@ -22,15 +22,12 @@ Da diese App derzeit nur den AdMob-Werbedienst verwendet, beziehen sich die von 
 Wir verwenden Ihre Informationen hauptsächlich für folgende Zwecke:
 
 - **Bereitstellung und Verbesserung von Werbediensten:** AdMob verwendet die gesammelten Informationen, um relevantere Anzeigen anzuzeigen und die Effektivität von Werbekampagnen zu messen.
-- **Analyse und Berichterstattung:** Wir können aggregierte, anonymisierte Informationen verwenden, um die App-Nutzung und die Anzeigenleistung zu analysieren, um unsere App und Dienste zu verbessern.
-- **Einhaltung von Gesetzen und Vorschriften:** Wir können Ihre Informationen offenlegen, wenn dies gesetzlich vorgeschrieben ist.
 
 **Wie wir Ihre Informationen weitergeben**
 
 Wir können Ihre Informationen an folgende Dritte weitergeben:
 
 - **AdMob und andere Werbepartner:** Um Werbedienste bereitzustellen, geben wir die erforderlichen Informationen an AdMob und andere potenzielle Werbepartner weiter. Diese Partner können Ihre Informationen verwenden, um personalisierte Werbung und andere Dienste bereitzustellen. Wir empfehlen Ihnen, die Datenschutzrichtlinien von AdMob und anderen Partnern zu lesen, um zu verstehen, wie diese Ihre Informationen verwenden.
-- **Strafverfolgungsbehörden:** Wir können Ihre Informationen an Strafverfolgungsbehörden oder andere Regierungsbehörden weitergeben, wenn dies gesetzlich vorgeschrieben ist.
 
 **Änderungen dieser Datenschutzerklärung**
 

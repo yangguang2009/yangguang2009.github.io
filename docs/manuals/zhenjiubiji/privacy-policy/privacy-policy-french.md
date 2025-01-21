@@ -22,15 +22,12 @@ Nous vous remercions d'utiliser ZhenJiuBiJi (ci-après dénommé « cette applic
 Nous utilisons vos informations principalement aux fins suivantes :
 
 - **Fournir et améliorer les services publicitaires :** AdMob utilise les informations collectées pour afficher des publicités plus pertinentes et mesurer l'efficacité des campagnes publicitaires.
-- **Analyse et rapports :** Nous pouvons utiliser des informations agrégées et anonymisées pour analyser l'utilisation de l'application et les performances des publicités afin d'améliorer notre application et nos services.
-- **Conformité aux lois et réglementations :** Nous pouvons divulguer vos informations si la loi l'exige.
 
 **Comment nous partageons vos informations**
 
 Nous pouvons partager vos informations avec les tiers suivants :
 
 - **AdMob et d'autres partenaires publicitaires :** Afin de fournir des services publicitaires, nous partageons les informations nécessaires avec AdMob et d'autres partenaires publicitaires potentiels. Ces partenaires peuvent utiliser vos informations pour fournir des publicités personnalisées et d'autres services. Nous vous recommandons de consulter les politiques de confidentialité d'AdMob et des autres partenaires pour comprendre comment ils utilisent vos informations.
-- **Autorités légales :** Nous pouvons divulguer vos informations aux forces de l'ordre ou à d'autres organismes gouvernementaux si la loi l'exige.
 
 **Modifications de la présente politique de confidentialité**
 
