@@ -41,7 +41,7 @@ export default function ZhenJiuBiJi() {
                 </div>
                 <div className="flex flex-wrap gap-4">
                   <a
-                    href="#"
+                    href="https://apps.apple.com/us/app/zhenjiubiji/id6740513110"
                     className="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors"
                   >
                     iOS Download
