@@ -78,6 +78,11 @@ const config: Config = {
           label: "ZhenJiuBiJi",
           position: "left",
         },
+        {
+          to: "/w3inai",
+          label: "W3inAI",
+          position: "left",
+        },
         // right
         { to: "/blog", label: "Blog", position: "right" },
         {
