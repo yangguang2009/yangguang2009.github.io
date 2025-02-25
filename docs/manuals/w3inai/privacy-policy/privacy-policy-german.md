@@ -3,11 +3,11 @@ title: Datenschutzerklärung
 sidebar_position: 6
 ---
 
-**Datenschutzerklärung für ZhenJiuBiJi**
+**Datenschutzerklärung für W3inAI**
 
 **Gültigkeitsdatum:** 20. Januar 2025
 
-Vielen Dank, dass Sie ZhenJiuBiJi (im Folgenden als „diese App“ bezeichnet) verwenden. Wir legen großen Wert auf Ihre Privatsphäre. Diese Datenschutzerklärung erläutert, wie wir Ihre Informationen erfassen, verwenden und weitergeben. Durch die Nutzung dieser App stimmen Sie den Bedingungen dieser Datenschutzerklärung zu.
+Vielen Dank, dass Sie W3inAI (im Folgenden als „diese App“ bezeichnet) verwenden. Wir legen großen Wert auf Ihre Privatsphäre. Diese Datenschutzerklärung erläutert, wie wir Ihre Informationen erfassen, verwenden und weitergeben. Durch die Nutzung dieser App stimmen Sie den Bedingungen dieser Datenschutzerklärung zu.
 
 **Von uns erfasste Informationen**
 

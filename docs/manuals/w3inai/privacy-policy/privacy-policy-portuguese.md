@@ -3,11 +3,11 @@ title: Política de Privacidade
 sidebar_position: 10
 ---
 
-**Política de Privacidade do ZhenJiuBiJi**
+**Política de Privacidade do W3inAI**
 
 **Data de Vigência:** 20 de janeiro de 2025
 
-Obrigado por usar o ZhenJiuBiJi (doravante referido como "este Aplicativo"). Valorizamos muito a sua privacidade. Esta política de privacidade explica como coletamos, usamos e compartilhamos suas informações. Ao usar este Aplicativo, você concorda com os termos desta política de privacidade.
+Obrigado por usar o W3inAI (doravante referido como "este Aplicativo"). Valorizamos muito a sua privacidade. Esta política de privacidade explica como coletamos, usamos e compartilhamos suas informações. Ao usar este Aplicativo, você concorda com os termos desta política de privacidade.
 
 **Informações que coletamos**
 
