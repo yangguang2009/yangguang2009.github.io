@@ -11,11 +11,11 @@ export default function ZhenJiuBiJi() {
             <div className="relative flex flex-col md:flex-row items-center justify-between gap-8 md:gap-16">
               {/* 左侧内容区域 */}
               <div className="relative z-10 w-full  space-y-6 mt-8 md:mt-0">
-                <h1 className="flex items-center gap-2 text-4xl md:text-5xl font-bold text-gray-800">
+                <h1 className="flex items-center gap-2 text-4xl md:text-5xl font-bold text-gray-700">
                   <img
                     src="/img/zhenjiubiji-icon.webp"
                     alt="ZhenJiuBiJi"
-                    className="w-10 h-10"
+                    className="w-10 h-10 rounded-lg"
                   />
                   ZhenJiuBiJi
                 </h1>
