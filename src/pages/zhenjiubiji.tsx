@@ -11,7 +11,7 @@ export default function ZhenJiuBiJi() {
             <div className="relative flex flex-col md:flex-row items-center justify-between gap-8 md:gap-16">
               {/* 左侧内容区域 */}
               <div className="relative z-10 w-full  space-y-6 mt-8 md:mt-0">
-                <h1 className="flex items-center gap-2 text-4xl md:text-5xl font-bold text-gray-700">
+                <h1 className="flex items-center gap-2 text-4xl md:text-5xl font-bold text-gray-900">
                   <img
                     src="/img/zhenjiubiji-icon.webp"
                     alt="ZhenJiuBiJi"
@@ -42,23 +42,28 @@ export default function ZhenJiuBiJi() {
                 <div className="flex flex-wrap gap-4">
                   <a
                     href="https://apps.apple.com/app/id6740513110"
-                    className="inline-flex items-center px-6 py-3 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-colors"
+                    className="inline-flex items-center w-[160px] h-[50px] rounded-full overflow-hidden bg-[#2e2c2f]"
                   >
-                    iOS Download
+                    <img src="/img/app-store.png" alt="App Store" />
+                  </a>
+                  <a
+                    href=""
+                    className="inline-flex items-center w-[160px] h-[50px] rounded-full overflow-hidden bg-[#2e2c2f]"
+                  >
+                    <img src="/img/amazon-store.png" alt="Amazon App Store" />
                   </a>
                   <a
                     href="#"
-                    className="inline-flex items-center px-6 py-3 bg-green-600 text-white rounded-full hover:bg-green-700 transition-colors"
+                    className="inline-flex items-center w-[182px] h-[50px] rounded-full overflow-hidden bg-[#2e2c2f] text-white font-bold"
                   >
-                    Android Download
+                    <span className="text-2xl ml-3 mr-2">📦</span>
+                    <span>APK Download</span>
                   </a>
                 </div>
-                <div className="flex items-center gap-2 text-sm text-sky-600">
+                <div className="flex items-center gap-4 text-sm text-sky-600">
                   <Link href="/docs/manuals/zhenjiubiji/acknowledgments&Licenses">
                     Acknowledgments & Licenses
                   </Link>
-                </div>
-                <div className="flex items-center gap-2 text-sm text-sky-600">
                   <Link href="/about">Contact & Support</Link>
                 </div>
               </div>
