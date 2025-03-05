@@ -87,11 +87,6 @@ const config: Config = {
           label: "W3S",
           position: "left",
         },
-        {
-          to: "/w3inai",
-          label: "W3inAI",
-          position: "left",
-        },
         // right
         { to: "/blog", label: "Blog", position: "right" },
         {

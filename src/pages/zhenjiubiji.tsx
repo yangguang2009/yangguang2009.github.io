@@ -47,7 +47,7 @@ export default function ZhenJiuBiJi() {
                     <img src="/img/app-store.png" alt="App Store" />
                   </a>
                   <a
-                    href=""
+                    href="https://www.amazon.com/gp/product/B0DZ43G6PN"
                     className="inline-flex items-center w-[160px] h-[50px] rounded-full overflow-hidden bg-[#2e2c2f]"
                   >
                     <img src="/img/amazon-store.png" alt="Amazon App Store" />
