@@ -78,6 +78,11 @@ const config: Config = {
       items: [
         // left
         {
+          to: "/acunote3d",
+          label: "AcuNote 3D",
+          position: "left",
+        },
+        {
           to: "/zhenjiubiji",
           label: "ZhenJiuBiJi",
           position: "left",
