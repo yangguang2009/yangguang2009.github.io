@@ -3,11 +3,11 @@ title: Politique de confidentialité
 sidebar_position: 5
 ---
 
-**Politique de confidentialité de AcuNote 3D**
+**Politique de confidentialité de AcuNote**
 
 **Date d'entrée en vigueur :** 20 janvier 2025
 
-Nous vous remercions d'utiliser AcuNote 3D (ci-après dénommé « cette application »). Nous accordons une grande importance à votre vie privée. La présente politique de confidentialité explique comment nous collectons, utilisons et partageons vos informations. En utilisant cette application, vous acceptez les termes de la présente politique de confidentialité.
+Nous vous remercions d'utiliser AcuNote (ci-après dénommé « cette application »). Nous accordons une grande importance à votre vie privée. La présente politique de confidentialité explique comment nous collectons, utilisons et partageons vos informations. En utilisant cette application, vous acceptez les termes de la présente politique de confidentialité.
 
 **Informations que nous collectons**
 

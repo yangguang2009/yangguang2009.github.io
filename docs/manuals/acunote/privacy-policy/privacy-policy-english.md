@@ -3,11 +3,11 @@ title: Privacy Policy
 sidebar_position: 3
 ---
 
-**AcuNote 3D Privacy Policy**
+**AcuNote Privacy Policy**
 
 **Effective Date:** January 20, 2025
 
-Thank you for using AcuNote 3D (hereinafter referred to as "this App"). We value your privacy. This privacy policy explains how we collect, use, and share your information. By using this App, you agree to the terms of this privacy policy.
+Thank you for using AcuNote (hereinafter referred to as "this App"). We value your privacy. This privacy policy explains how we collect, use, and share your information. By using this App, you agree to the terms of this privacy policy.
 
 **Information We Collect**
 

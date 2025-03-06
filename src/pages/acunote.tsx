@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 
-export default function AcuNote3D() {
+export default function AcuNote() {
   return (
     <Layout>
       <div className="tailwind">
@@ -14,10 +14,10 @@ export default function AcuNote3D() {
                 <h1 className="flex items-center gap-2 text-4xl md:text-5xl font-bold text-gray-900">
                   <img
                     src="/img/zhenjiubiji-icon.webp"
-                    alt="AcuNote 3D"
+                    alt="AcuNote"
                     className="w-10 h-10 rounded-lg"
                   />
-                  AcuNote 3D
+                  AcuNote
                 </h1>
                 <p className="text-lg text-gray-600 leading-relaxed">
                   Learn acupuncture anytime, anywhere, and master meridians and

@@ -3,11 +3,11 @@ title: Datenschutzerklärung
 sidebar_position: 6
 ---
 
-**Datenschutzerklärung für AcuNote 3D**
+**Datenschutzerklärung für AcuNote**
 
 **Gültigkeitsdatum:** 20. Januar 2025
 
-Vielen Dank, dass Sie AcuNote 3D (im Folgenden als „diese App“ bezeichnet) verwenden. Wir legen großen Wert auf Ihre Privatsphäre. Diese Datenschutzerklärung erläutert, wie wir Ihre Informationen erfassen, verwenden und weitergeben. Durch die Nutzung dieser App stimmen Sie den Bedingungen dieser Datenschutzerklärung zu.
+Vielen Dank, dass Sie AcuNote (im Folgenden als „diese App“ bezeichnet) verwenden. Wir legen großen Wert auf Ihre Privatsphäre. Diese Datenschutzerklärung erläutert, wie wir Ihre Informationen erfassen, verwenden und weitergeben. Durch die Nutzung dieser App stimmen Sie den Bedingungen dieser Datenschutzerklärung zu.
 
 **Von uns erfasste Informationen**
 
