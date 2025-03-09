@@ -92,6 +92,11 @@ const config: Config = {
           label: "W3S",
           position: "left",
         },
+        {
+          to: "/linguasage",
+          label: "LinguaSage",
+          position: "left",
+        },
         // right
         { to: "/blog", label: "Blog", position: "right" },
         {
