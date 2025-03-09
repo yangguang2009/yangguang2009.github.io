@@ -6,7 +6,7 @@ export default function LinguaSage() {
   return (
     <Layout>
       <div className="tailwind">
-        <div className="min-h-[calc(100vh-151px)] overflow-y-auto overflow-x-hidden bg-blue-300 ">
+        <div className="min-h-[calc(100vh-151px)] overflow-y-auto overflow-x-hidden bg-amber-100 ">
           <div className="container max-w-5xl px-4 py-12 md:py-20">
             <div className="relative flex flex-col md:flex-row items-center justify-between gap-8 md:gap-16">
               {/* 左侧内容区域 */}
