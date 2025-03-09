@@ -20,8 +20,9 @@ export default function W3S() {
                   W3S
                 </h1>
                 <p className="text-lg text-gray-800 leading-relaxed">
-                  Your Exclusive Front-End Learning Assistant, Opening a New Era
-                  of AI-Assisted Development!
+                  Easy Web development tutorials!
+                  <br />
+                  Make Web frontend development easier and fun!
                 </p>
                 <div className="space-y-4">
                   <h2 className="text-2xl font-semibold text-gray-700">
