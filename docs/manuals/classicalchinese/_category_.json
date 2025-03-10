@@ -1,8 +1,8 @@
 {
-  "label": "Classical Chinese",
+  "label": "Classical Chinese App",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Main content of Classical Chinese"
+    "description": "Main content of Classical Chinese App"
   }
 }
