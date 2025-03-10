@@ -93,8 +93,8 @@ const config: Config = {
           position: "left",
         },
         {
-          to: "/linguasage",
-          label: "LinguaSage",
+          to: "/classicalchinese",
+          label: "Classical Chinese",
           position: "left",
         },
         // right

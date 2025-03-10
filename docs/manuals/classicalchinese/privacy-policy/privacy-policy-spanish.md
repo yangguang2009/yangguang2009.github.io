@@ -3,11 +3,11 @@ title: Política de privacidad
 sidebar_position: 12
 ---
 
-**Política de privacidad de LinguaSage**
+**Política de privacidad de Classical Chinese**
 
 **Fecha de entrada en vigor:** 20 de enero de 2025
 
-Gracias por usar LinguaSage (en adelante, "esta Aplicación"). Valoramos mucho su privacidad. Esta política de privacidad explica cómo recopilamos, usamos y compartimos su información. Al usar esta Aplicación, usted acepta los términos de esta política de privacidad.
+Gracias por usar Classical Chinese (en adelante, "esta Aplicación"). Valoramos mucho su privacidad. Esta política de privacidad explica cómo recopilamos, usamos y compartimos su información. Al usar esta Aplicación, usted acepta los términos de esta política de privacidad.
 
 **Información que recopilamos**
 

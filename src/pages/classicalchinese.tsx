@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 
-export default function LinguaSage() {
+export default function ClassicalChinese() {
   return (
     <Layout>
       <div className="tailwind">
@@ -13,11 +13,11 @@ export default function LinguaSage() {
               <div className="relative z-10 w-full  space-y-6 mt-8 md:mt-0">
                 <h1 className="flex items-center gap-2 text-4xl md:text-5xl font-bold text-gray-900">
                   <img
-                    src="/img/linguasage-icon-128.webp"
-                    alt="LinguaSage"
+                    src="/img/classicalchinese-icon-128.webp"
+                    alt="ClassicalChinese"
                     className="w-11 h-11 rounded-lg"
                   />
-                  LinguaSage
+                  Classical Chinese
                 </h1>
                 <p className="text-lg text-gray-800 leading-relaxed">
                   Curated classical text annotations, detailed word
@@ -63,7 +63,7 @@ export default function LinguaSage() {
                   </a>
                 </div>
                 <div className="flex items-center gap-4 text-sm text-sky-600">
-                  <Link href="/docs/manuals/linguasage/acknowledgments&Licenses">
+                  <Link href="/docs/manuals/classicalchinese/acknowledgments&Licenses">
                     Acknowledgments & Licenses
                   </Link>
                   <Link href="/about">Contact & Support</Link>
@@ -72,7 +72,7 @@ export default function LinguaSage() {
               {/* 右侧图片区域 */}
               <div className="absolute top-0 -right-[190px] opacity-10 md:opacity-100 md:w-1/2 md:relative md:right-0">
                 <div className="relative aspect-[9/16] md:aspect-auto max-w-sm mx-auto rounded-lg overflow-hidden">
-                  <img src="/img/linguasage-bg.png" alt="预览" />
+                  <img src="/img/classicalchinese-bg.png" alt="预览" />
                 </div>
               </div>
             </div>
