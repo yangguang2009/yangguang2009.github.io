@@ -71,7 +71,7 @@ export default function W3S() {
               </div>
               {/* 右侧图片区域 */}
               <div className="absolute top-0 -right-[190px] opacity-10 md:opacity-100 md:w-1/2 md:relative md:right-0">
-                <div className="relative aspect-[9/16] md:aspect-auto max-w-sm mx-auto rounded-lg overflow-hidden">
+                <div className="relative aspect-[9/16] md:aspect-auto max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg">
                   <img src="/img/w3s-bg.png" alt="预览" />
                 </div>
               </div>

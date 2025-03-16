@@ -97,6 +97,11 @@ const config: Config = {
           label: "Classical Chinese",
           position: "left",
         },
+        {
+          to: "/stylerater",
+          label: "Style Rater",
+          position: "left",
+        },
         // right
         { to: "/blog", label: "Blog", position: "right" },
         {
