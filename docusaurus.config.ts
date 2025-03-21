@@ -102,6 +102,11 @@ const config: Config = {
           label: "Style Rater",
           position: "left",
         },
+        {
+          to: "/chinesemeal",
+          label: "Chinese Meal",
+          position: "left",
+        },
         // right
         { to: "/blog", label: "Blog", position: "right" },
         {

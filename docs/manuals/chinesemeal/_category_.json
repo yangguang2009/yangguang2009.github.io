@@ -1,0 +1,8 @@
+{
+  "label": "Chinese Meal",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Main content of Chinese Meal"
+  }
+}
