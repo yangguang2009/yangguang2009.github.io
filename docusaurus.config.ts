@@ -83,11 +83,6 @@ const config: Config = {
           position: "left",
         },
         {
-          to: "/zhenjiubiji",
-          label: "ZhenJiuBiJi",
-          position: "left",
-        },
-        {
           to: "/w3s",
           label: "W3S",
           position: "left",

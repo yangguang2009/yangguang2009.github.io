@@ -52,13 +52,13 @@ export default function AcuNote() {
                   >
                     <img src="/img/amazon-store.png" alt="Amazon App Store" />
                   </a>
-                  <a
+                  {/* <a
                     href="#"
                     className="inline-flex items-center w-[182px] h-[50px] rounded-full overflow-hidden bg-[#2e2c2f] text-white font-bold"
                   >
                     <span className="text-2xl ml-3 mr-2">📦</span>
                     <span>APK Download</span>
-                  </a>
+                  </a> */}
                 </div>
                 <div className="flex items-center gap-4 text-sm text-sky-600">
                   <Link href="/docs/manuals/zhenjiubiji/acknowledgments&Licenses">
