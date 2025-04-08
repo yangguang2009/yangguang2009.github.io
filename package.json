@@ -38,6 +38,9 @@
     "typescript": "~5.5.2",
     "wrangler": "^3.80.4"
   },
+  "overrides": {
+    "image-size": "2.0.2" 
+  },
   "browserslist": {
     "production": [
       ">0.5%",
