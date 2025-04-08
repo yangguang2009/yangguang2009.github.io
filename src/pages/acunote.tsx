@@ -61,7 +61,7 @@ export default function AcuNote() {
                   </a> */}
                 </div>
                 <div className="flex items-center gap-4 text-sm text-sky-600">
-                  <Link href="/docs/manuals/zhenjiubiji/acknowledgments&Licenses">
+                  <Link href="/docs/manuals/acunote/acknowledgments&Licenses">
                     Acknowledgments & Licenses
                   </Link>
                   <Link href="/about">Contact & Support</Link>
