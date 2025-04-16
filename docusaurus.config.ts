@@ -102,6 +102,11 @@ const config: Config = {
           label: "Chinese Meal",
           position: "left",
         },
+        {
+          to: "/linkland",
+          label: "LinkLand",
+          position: "left",
+        },
         // right
         { to: "/blog", label: "Blog", position: "right" },
         {
