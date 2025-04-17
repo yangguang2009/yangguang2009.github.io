@@ -43,7 +43,7 @@ export default function LinkLand() {
                 </div>
                 <div className="flex flex-wrap gap-4">
                   <a
-                    href="https://apps.apple.com/app/id6743106328"
+                    href="https://apps.apple.com/app/id6743992712"
                     className="inline-flex items-center w-[160px] h-[50px] rounded-full overflow-hidden bg-[#2e2c2f]"
                   >
                     <img src="/img/app-store.png" alt="App Store" />
