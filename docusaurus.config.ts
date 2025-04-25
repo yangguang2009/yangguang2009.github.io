@@ -107,6 +107,12 @@ const config: Config = {
           label: "LinkLand",
           position: "left",
         },
+        {
+          to: "/hearnear",
+          label: "HearNear",
+          position: "left",
+        },
+
         // right
         { to: "/blog", label: "Blog", position: "right" },
         {

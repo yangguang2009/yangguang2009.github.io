@@ -1,0 +1,8 @@
+{
+  "label": "HearNear",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Main content of HearNear"
+  }
+}
