@@ -54,6 +54,18 @@ export default function HearNear() {
                     <img src="/img/app-store.png" alt="App Store" />
                   </a>
                 </div>
+                <div className="flex flex-wrap gap-4">
+                  <a
+                    href="https://www.producthunt.com/posts/hearnear?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hearnear"
+                    target="_blank"
+                  >
+                    <img
+                      src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=959072&theme=light&t=1745921367900"
+                      alt="HearNear - Hear&#0032;World&#0044;&#0032;Enrich&#0032;Life&#0033; | Product Hunt"
+                      style={{ width: "250px", height: "54px" }}
+                    />
+                  </a>
+                </div>
                 <div className="flex items-center gap-4 text-sm text-sky-600">
                   <Link href="/docs/manuals/hearnear/acknowledgments&Licenses">
                     Acknowledgments & Licenses
