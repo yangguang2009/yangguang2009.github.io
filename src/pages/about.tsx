@@ -42,6 +42,14 @@ export default function About() {
             </h2>
             <div className="flex justify-center space-x-6">
               <a
+                href="https://x.com/Yangguang2009"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              >
+                <FaTwitter className="w-8 h-8" />
+              </a>
+              <a
                 href="https://github.com/yangguang2009"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -55,14 +63,6 @@ export default function About() {
               >
                 <FaEnvelope className="w-8 h-8" />
               </a>
-              {/* <a
-                href="https://twitter.com/yourusername"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
-              >
-                <FaTwitter className="w-8 h-8" />
-              </a> */}
             </div>
           </div>
         </div>
