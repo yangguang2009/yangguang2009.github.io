@@ -1,7 +1,8 @@
 import React from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
-import { FaGithub, FaEnvelope, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaEnvelope, FaTwitter, FaYoutube } from "react-icons/fa";
+import { FaBilibili } from "react-icons/fa6";
 
 export default function About() {
   return (
@@ -48,6 +49,22 @@ export default function About() {
                 className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
               >
                 <FaTwitter className="w-8 h-8" />
+              </a>
+              <a
+                href="https://www.youtube.com/@yangguang2009"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              >
+                <FaYoutube className="w-8 h-8" />
+              </a>
+              <a
+                href="https://space.bilibili.com/3546894038993164"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
+              >
+                <FaBilibili className="w-8 h-8" />
               </a>
               <a
                 href="https://github.com/yangguang2009"
