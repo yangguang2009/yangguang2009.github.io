@@ -64,10 +64,7 @@ export default function W3() {
               {/* 右侧图片区域 */}
               <div className="absolute top-0 -right-[190px] opacity-10 md:opacity-100 md:w-1/2 md:relative md:right-0">
                 <div className="relative aspect-[9/16] md:aspect-auto max-w-sm mx-auto rounded-lg overflow-hidden shadow-lg">
-                  <img
-                    src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/d7/85/b4/d785b4eb-5b7f-68d7-828e-a35112d7f116/ebc7f845-9ed6-40bb-82ba-9f1df563bc7a_65-2-e.png/460x0w.webp"
-                    alt="预览"
-                  />
+                  <img src="/img/w3-bg.png" alt="预览" />
                 </div>
               </div>
             </div>
