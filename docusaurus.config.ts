@@ -112,6 +112,11 @@ const config: Config = {
           label: "HearNear",
           position: "left",
         },
+        {
+          to: "/w3",
+          label: "W3",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },
