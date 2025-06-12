@@ -117,6 +117,11 @@ const config: Config = {
           label: "W3",
           position: "left",
         },
+        {
+          to: "/talkcast",
+          label: "TalkCast",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },
