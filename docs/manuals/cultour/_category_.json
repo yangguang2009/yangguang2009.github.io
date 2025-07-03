@@ -1,0 +1,8 @@
+{
+  "label": "Cultour",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Main content of Cultour"
+  }
+}

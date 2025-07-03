@@ -122,6 +122,11 @@ const config: Config = {
           label: "TalkCast",
           position: "left",
         },
+        {
+          to: "/cultour",
+          label: "Cultour",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },
