@@ -127,6 +127,11 @@ const config: Config = {
           label: "Cultour",
           position: "left",
         },
+        {
+          to: "/danciriji",
+          label: "单词日记",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },
