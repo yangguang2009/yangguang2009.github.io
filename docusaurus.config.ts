@@ -132,6 +132,11 @@ const config: Config = {
           label: "单词日记",
           position: "left",
         },
+        {
+          to: "/tcmaid",
+          label: "TCM AID",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },
