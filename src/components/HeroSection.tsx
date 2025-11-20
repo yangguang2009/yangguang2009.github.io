@@ -1,19 +1,9 @@
 const apps = [
-  {
-    id: "autodrive-sim",
-    name: "AutoDrive-Sim",
-    color: "from-indigo-600 via-pink-500 to-purple-600",
-  },
-  {
-    id: "artdog",
-    name: "ArtDog",
-    color: "from-indigo-600 via-pink-500 to-purple-600",
-  },
-  {
-    id: "recalendar",
-    name: "ReCalendar",
-    color: "from-purple-600 via-green-500 to-yellow-600",
-  },
+  // {
+  //   id: "autodrive-sim",
+  //   name: "AutoDrive-Sim",
+  //   color: "from-indigo-600 via-pink-500 to-purple-600",
+  // },
 ];
 export default function HeroSection() {
   function scrollTo(id) {

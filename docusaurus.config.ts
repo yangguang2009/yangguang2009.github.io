@@ -137,6 +137,11 @@ const config: Config = {
           label: "TCM AID",
           position: "left",
         },
+        {
+          to: "/tcmnote",
+          label: "TcmNote",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },

@@ -42,7 +42,7 @@ export default function About() {
               Get in Touch
             </h2>
             <div className="flex justify-center space-x-6">
-              <a
+              {/* <a
                 href="https://x.com/Yangguang2009"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -57,7 +57,7 @@ export default function About() {
                 className="text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
               >
                 <FaYoutube className="w-8 h-8" />
-              </a>
+              </a> */}
               <a
                 href="https://space.bilibili.com/3546894038993164"
                 target="_blank"
