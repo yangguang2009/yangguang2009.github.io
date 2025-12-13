@@ -142,6 +142,11 @@ const config: Config = {
           label: "TcmNote",
           position: "left",
         },
+        {
+          to: "/pingpurr",
+          label: "PingPurr",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },
