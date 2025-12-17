@@ -147,6 +147,11 @@ const config: Config = {
           label: "PingPurr",
           position: "left",
         },
+        {
+          to: "/hosehero",
+          label: "HoseHero",
+          position: "left",
+        },
 
         // right
         { to: "/blog", label: "Blog", position: "right" },

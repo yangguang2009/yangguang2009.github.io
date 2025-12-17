@@ -11,6 +11,10 @@ sidebar_position: 13
 
 ## Licenses
 
-### Images and Icons
+### Images
 
 - <a href="https://gemini.google.com/">Designed by Gemini</a>
+
+### Musics
+
+- [Pixabay](https://pixabay.com/)
